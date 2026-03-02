@@ -8,8 +8,6 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-
 ## 🚀 About Me 
 I'm a Data Analyst and Business Intelligence Specialist based in South Africa, working across banking and enterprise environments.
 I specialize in:
@@ -22,15 +20,13 @@ I’ve worked on large-scale reporting initiatives across multiple regions, incl
 
 My strength lies in bridging the gap between business stakeholders and technical implementation — ensuring dashboards are not only built, but actually used and trusted.
 
-I enjoy solving data problems, optimizing processes, and creating structured documentation that makes handovers seamless.
----
+**I enjoy solving data problems, optimizing processes, and creating structured documentation that makes handovers seamless.
 
 ## 🔭 What I'm Currently Working On 
 - Enhancing enterprise Power BI dashboards for multi-region banking environments  
 - Designing scalable data ingestion processes using automation tools  
 - Improving reporting governance, documentation, and handover frameworks  
 - Exploring AI integration within Power Platform environments  
----
 
 ## 🛠️ Technical Skillset
 •	Business Intelligence & Data Analytics
@@ -65,7 +61,7 @@ I enjoy solving data problems, optimizing processes, and creating structured doc
   <img src="https://img.shields.io/badge/Data%20Optimization-Advanced-00A86B?style=flat">
 </p>
 
-#### Business Intelligence & Analytics
+### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/KPI%20Development-Midlevel-96CEB4?style=flat">
   <img src="https://img.shields.io/badge/Reporting%20Governance-Midlevel-4ECDC4?style=flat">
@@ -73,15 +69,11 @@ I enjoy solving data problems, optimizing processes, and creating structured doc
   <img src="https://img.shields.io/badge/Stakeholder%20Engagement-Midlevel-FFB347?style=flat">
 </p>
 
----
-
 ## 💡 What Sets Me Apart
 •	I don’t just build dashboards — I design solutions that solve operational bottlenecks  
 •	I understand both the technical layer and executive reporting expectations  
 •	I prioritize documentation, sustainability, and scalability  
 •	I think in systems — not just visuals  
-
----
 
 ### 📌 Portfolio & Projects
 (You can add links here to specific repositories once ready.)
