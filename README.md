@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/sibongile-ignatia-hlatshwayo-43855118a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -18,9 +18,7 @@ I specialize in:
 
 I’ve worked on large-scale reporting initiatives across multiple regions, including risk dashboards, regulatory reporting, control assessments, and performance analytics.
 
-My strength lies in bridging the gap between business stakeholders and technical implementation — ensuring dashboards are not only built, but actually used and trusted.
-
-**I enjoy solving data problems, optimizing processes, and creating structured documentation that makes handovers seamless.
+My strength lies in bridging the gap between business stakeholders and technical implementation — ensuring dashboards are not only built, but actually used and trusted. I enjoy solving data problems, optimizing processes, and creating structured documentation that makes handovers seamless.
 
 ## 🔭 What I'm Currently Working On 
 - Enhancing enterprise Power BI dashboards for multi-region banking environments  
@@ -29,21 +27,22 @@ My strength lies in bridging the gap between business stakeholders and technical
 - Exploring AI integration within Power Platform environments  
 
 ## 🛠️ Technical Skillset
-•	Business Intelligence & Data Analytics
-•	UAT (User Acceptance Testing)
-•	Use Case Development 
-•	Business Case Development
-•	SQL Data Extraction & Transformation
-•	Stakeholder Engagement & Requirements Gathering
-•	Requirements Elicitation
-•	Data Visualisation (Power BI)
-•	Data Product Life Cycle (DPLC)
-•	Process Analysis & Automation 
-•	Articulating Information (Technical)
-•	Data Analysis
-•	Process Analysis & Automation
-•	Agile Project Methodologies 
-•	Software Development Life Cycle (SDLC)
+- Business Intelligence & Data Analytics
+- UAT (User Acceptance Testing)
+- Use Case Development 
+- Business Case Development
+- SQL Data Extraction & Transformation
+- Stakeholder Engagement & Requirements Gathering
+- Requirements Elicitation
+- Data Visualisation (Power BI)
+- Data Product Life Cycle (DPLC)
+- Process Analysis & Automation 
+- Articulating Information (Technical)
+- Data Analysis
+- Process Analysis & Automation
+- Agile Project Methodologies 
+- Software Development Life Cycle (SDLC)
+
 <img width="468" height="236" alt="image" src="https://github.com/user-attachments/assets/3dd729cf-042d-4847-8c31-8e366ab938f3" />
 
 #### Data Analysis & Visualization
