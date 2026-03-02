@@ -60,17 +60,17 @@ I enjoy solving messy data problems, optimizing processes, and creating structur
 
 #### Automation & Process Optimization
 <p>
-  <img src="https://img.shields.io/badge/Power%20Automate-Advanced-0066FF?style=flat&logo=powerautomate&logoColor=white">
-  <img src="https://img.shields.io/badge/Process%20Automation-Advanced-FF6F61?style=flat">
+  <img src="https://img.shields.io/badge/Power%20Automate-Intermediate-0066FF?style=flat&logo=powerautomate&logoColor=white">
+  <img src="https://img.shields.io/badge/Process%20Automation--FF6F61?style=flat">
   <img src="https://img.shields.io/badge/Data%20Optimization-Advanced-00A86B?style=flat">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Reporting%20Governance-Advanced-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/Requirements%20Analysis-Advanced-8E44AD?style=flat">
-  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-Advanced-FFB347?style=flat">
+  <img src="https://img.shields.io/badge/KPI%20Development-Midlevel-96CEB4?style=flat">
+  <img src="https://img.shields.io/badge/Reporting%20Governance-Midlevel-4ECDC4?style=flat">
+  <img src="https://img.shields.io/badge/Requirements%20Analysis-Midlevel-8E44AD?style=flat">
+  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-Midlevel-FFB347?style=flat">
 </p>
 
 ---
