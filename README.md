@@ -1,5 +1,4 @@
 ## Hi there, I'm Sibongile Hlatshwayo 👋🏽
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence+Specialist;Power+BI+%7C+Automation+%7C+Data+Optimization;Turning+Manual+Processes+into+Smart+Dashboards;Bridging+Business+Needs+and+Data+Solutions" alt="Typing SVG" />
 </div>
@@ -12,11 +11,8 @@
 ---
 
 ## 🚀 About Me 
-
 I'm a Data Analyst and Business Intelligence Specialist based in South Africa, working across banking and enterprise environments.
-
 I specialize in:
-
 - Building executive-level Power BI dashboards  
 - Automating manual reporting processes using Power Automate  
 - Designing data ingestion and transformation workflows  
@@ -26,36 +22,40 @@ I’ve worked on large-scale reporting initiatives across multiple regions, incl
 
 My strength lies in bridging the gap between business stakeholders and technical implementation — ensuring dashboards are not only built, but actually used and trusted.
 
-I enjoy solving messy data problems, optimizing processes, and creating structured documentation that makes handovers seamless.
-
+I enjoy solving data problems, optimizing processes, and creating structured documentation that makes handovers seamless.
 ---
 
 ## 🔭 What I'm Currently Working On 
-
 - Enhancing enterprise Power BI dashboards for multi-region banking environments  
 - Designing scalable data ingestion processes using automation tools  
 - Improving reporting governance, documentation, and handover frameworks  
 - Exploring AI integration within Power Platform environments  
-
----
-
-## 🌱 Currently Learning 
-
-- Advanced data architecture and scalable BI design  
-- Cloud data environments (AWS + enterprise data platforms)  
-- Improving performance optimization in Power BI datasets  
-- Strengthening business case and digital transformation strategy skills  
-
 ---
 
 ## 🛠️ Technical Skillset
+•	Business Intelligence & Data Analytics
+•	UAT (User Acceptance Testing)
+•	Use Case Development 
+•	Business Case Development
+•	SQL Data Extraction & Transformation
+•	Stakeholder Engagement & Requirements Gathering
+•	Requirements Elicitation
+•	Data Visualisation (Power BI)
+•	Data Product Life Cycle (DPLC)
+•	Process Analysis & Automation 
+•	Articulating Information (Technical)
+•	Data Analysis
+•	Process Analysis & Automation
+•	Agile Project Methodologies 
+•	Software Development Life Cycle (SDLC)
+<img width="468" height="236" alt="image" src="https://github.com/user-attachments/assets/3dd729cf-042d-4847-8c31-8e366ab938f3" />
 
 #### Data Analysis & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Advanced-5C6BC0?style=flat">
+  <img src="https://img.shields.io/badge/Excel-Mid-level-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Mid-level-5C6BC0?style=flat">
 </p>
 
 #### Automation & Process Optimization
@@ -76,11 +76,10 @@ I enjoy solving messy data problems, optimizing processes, and creating structur
 ---
 
 ## 💡 What Sets Me Apart
-
-✔ I don’t just build dashboards — I design solutions that solve operational bottlenecks  
-✔ I understand both the technical layer and executive reporting expectations  
-✔ I prioritize documentation, sustainability, and scalability  
-✔ I think in systems — not just visuals  
+•	I don’t just build dashboards — I design solutions that solve operational bottlenecks  
+•	I understand both the technical layer and executive reporting expectations  
+•	I prioritize documentation, sustainability, and scalability  
+•	I think in systems — not just visuals  
 
 ---
 
