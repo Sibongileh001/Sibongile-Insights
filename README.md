@@ -49,7 +49,7 @@ My strength lies in bridging the gap between business stakeholders and technical
 #### Data Analysis & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-Mid-level-217346?style=flat&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-MidLevel-217346?style=flat&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Visualization-Mid-level-5C6BC0?style=flat">
 </p>
